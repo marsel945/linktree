@@ -8,7 +8,7 @@
 .container {
   width: 100%;
   height: 100vh;
-  padding: 0, 100px;
+  padding: 10, 100px;
   display: flex;
   flex-direction: column;
   align-items: center;
