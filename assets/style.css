@@ -20,6 +20,9 @@ body {
   background-color: aliceblue;
 }
 
+.name {
+  text-align: center;
+}
 .link-container {
   display: flex;
   justify-content: center;
